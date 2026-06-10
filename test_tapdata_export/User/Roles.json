@@ -1,6 +1,16 @@
 [ {
   "collectionName" : "Role",
   "json" : {
+    "_id" : "5b9a0a383fcba02649524bf1",
+    "created" : "2022-06-29T13:13:45Z",
+    "modified" : "2022-06-29T13:13:45Z",
+    "name" : "admin",
+    "register_user_default" : false,
+    "user_id" : "62bc5008d4958d013d97c7a6"
+  }
+}, {
+  "collectionName" : "Role",
+  "json" : {
     "_id" : "5d31ae1ab953565ded04badd",
     "created" : "2022-06-29T13:13:45Z",
     "description" : "新注册用户的默认角色",
