@@ -1,13 +1,33 @@
 [ {
   "collectionName" : "User",
   "json" : {
-    "_id" : "62bc5008d4958d013d97c7a6",
+    "_id" : "6a2632504f0c789f857d1595",
     "account_status" : 1,
     "completeGuide" : false,
-    "email" : "admin@admin.com",
+    "email" : "caesar@tapdata.io",
     "emailVerified" : true,
     "emailVerified_from_frontend" : true,
-    "password" : "$2a$10$VmrRIazvMqgNc.S8kSx5Ju0GOZnY3lh.vS7VLgNBJ52t4TVrqb77K",
-    "role" : 1
+    "listtags" : [ ],
+    "notification" : {
+      "connected" : {
+        "email" : false,
+        "sms" : false,
+        "weChat" : false
+      },
+      "connectionInterrupted" : {
+        "email" : false,
+        "sms" : false,
+        "weChat" : false
+      },
+      "stoppedByError" : {
+        "email" : false,
+        "sms" : false,
+        "weChat" : false
+      }
+    },
+    "password" : "$2a$10$WHNdFG.sBgWpXtUJ8rwTTe7BTI77Rtb4ak87OQSi0ZDOLD4JWeIv2",
+    "roleusers" : [ "5d31ae1ab953565ded04badd" ],
+    "user_id" : "62bc5008d4958d013d97c7a6",
+    "username" : "caesar"
   }
 } ]
