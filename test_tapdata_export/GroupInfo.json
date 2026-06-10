@@ -6,12 +6,16 @@
       "branch" : "main",
       "repoUrl" : "https://github.com/testcaesarcicd/test.git"
     },
-    "id" : "6a291ff43df2b4ac8ec5086a",
+    "id" : "6a29253693da0d298bcec62c",
     "name" : "test",
-    "resetTaskList" : [ "6a28dfc173cffd4db08fb9ef" ],
+    "resetTaskList" : [ ],
     "resourceItemList" : [ {
-      "id" : "6a28dfc173cffd4db08fb9ef",
-      "name" : "FDM",
+      "id" : "6a2922b993da0d298bcec336",
+      "name" : "fdm1",
+      "type" : "MIGRATE_TASK"
+    }, {
+      "id" : "6a29235c93da0d298bcec3f8",
+      "name" : "fdm2",
       "type" : "MIGRATE_TASK"
     } ],
     "user_id" : "6a2632504f0c789f857d1595"
