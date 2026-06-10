@@ -6,9 +6,9 @@
       "branch" : "main",
       "repoUrl" : "https://github.com/testcaesarcicd/test.git"
     },
-    "id" : "6a29074473cffd4db00336b8",
+    "id" : "6a291ff43df2b4ac8ec5086a",
     "name" : "test",
-    "resetTaskList" : [ ],
+    "resetTaskList" : [ "6a28dfc173cffd4db08fb9ef" ],
     "resourceItemList" : [ {
       "id" : "6a28dfc173cffd4db08fb9ef",
       "name" : "FDM",
