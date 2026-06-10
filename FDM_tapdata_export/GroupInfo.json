@@ -1,0 +1,15 @@
+[ {
+  "collectionName" : "GroupInfo",
+  "json" : {
+    "description" : "",
+    "gitInfo" : {
+      "branch" : "main",
+      "repoUrl" : "https://github.com/testcaesarcicd/test.git"
+    },
+    "id" : "6a28dffd73cffd4db090735f",
+    "name" : "FDM",
+    "resetTaskList" : [ ],
+    "resourceItemList" : [ ],
+    "user_id" : "6a2632504f0c789f857d1595"
+  }
+} ]
