@@ -163,11 +163,11 @@
       "timezone" : ""
     },
     "connection_type" : "source_and_target",
-    "createAt" : 1780906759268,
+    "createAt" : 1781071881323,
     "createUser" : "caesar",
     "dataSourceMonitor" : false,
     "database_type" : "PostgreSQL",
-    "datasourceInstanceTag" : "113.98.206.142:25432",
+    "datasourceInstanceTag" : "8.135.56.8:15432",
     "definitionBuildNumber" : "null",
     "definitionGroup" : "io.tapdata",
     "definitionPdkAPIVersion" : "2.0.5-SNAPSHOT",
@@ -199,12 +199,12 @@
     "kafkaProducerRequestTimeout" : 0,
     "kafkaProducerUseTransactional" : false,
     "kafkaRetries" : 0,
-    "lastUpdAt" : 1780906759268,
+    "lastUpdAt" : 1781074475524,
     "loadAllTables" : true,
-    "loadCount" : 1637,
+    "loadCount" : 1,
     "loadFieldErrMsg" : "",
     "loadFieldsStatus" : "finished",
-    "multiConnectionInstanceId" : "23a8f0a2e21ed75265ba547bf0471f78",
+    "multiConnectionInstanceId" : "77787492854cd002bff714a6b68a5d4b",
     "name" : "PGSQL_TEST",
     "namespace" : [ "public" ],
     "openTableExcludeFilter" : false,
@@ -220,7 +220,7 @@
         "sort" : 0,
         "status" : "passed"
       }, {
-        "fail_message" : "connected to 113.98.206.142:25432 succeed!",
+        "fail_message" : "connected to 8.135.56.8:15432 succeed!",
         "required" : true,
         "show_msg" : "Check host port is valid",
         "sort" : 0,
@@ -232,7 +232,7 @@
         "sort" : 0,
         "status" : "passed"
       }, {
-        "fail_message" : "PostgreSQL 15.13",
+        "fail_message" : "PostgreSQL 16.14",
         "required" : true,
         "show_msg" : "Version",
         "sort" : 0,
@@ -256,7 +256,7 @@
         "sort" : 0,
         "status" : "passed"
       }, {
-        "fail_message" : "113.98.206.142:25432",
+        "fail_message" : "8.135.56.8:15432",
         "required" : true,
         "show_msg" : "Datasource instance info",
         "sort" : 0,
@@ -264,11 +264,11 @@
       } ]
     },
     "schemaUpdateHour" : "default",
-    "schemaVersion" : "395d3a21-5cb4-4948-9310-98cca50ca291",
+    "schemaVersion" : "c65f4f73-c595-4888-8aa4-cf4ded1100e7",
     "shareCDCExternalStorageId" : "",
     "shareCdcEnable" : false,
     "submit" : true,
-    "tableCount" : 1638,
+    "tableCount" : 1,
     "testCount" : 0,
     "timeDifference" : 0,
     "user_id" : "6a2632504f0c789f857d1595"
