@@ -6,9 +6,9 @@
       "branch" : "main",
       "repoUrl" : "https://github.com/testcaesarcicd/test.git"
     },
-    "id" : "6a2a36953df2b4ac8ef1ab0b",
+    "id" : "6a2a5e213df2b4ac8e64d125",
     "name" : "test",
-    "resetTaskList" : [ "6a0d8a6492b63f47f297383e" ],
+    "resetTaskList" : [ ],
     "resourceItemList" : [ {
       "id" : "6a0d8a6492b63f47f297383e",
       "name" : "HKPMI_TO_FDM - Demo",
