@@ -48,15 +48,6 @@
       "id" : "query_field_min_max_value_function",
       "type" : 11
     }, {
-      "id" : "transaction_begin_function",
-      "type" : 11
-    }, {
-      "id" : "transaction_commit_function",
-      "type" : 11
-    }, {
-      "id" : "transaction_rollback_function",
-      "type" : 11
-    }, {
       "id" : "get_table_info_function",
       "type" : 11
     }, {
@@ -82,9 +73,6 @@
     }, {
       "id" : "api_server_supported",
       "type" : 20
-    }, {
-      "id" : "source_support_exactly_once",
-      "type" : 20
     } ],
     "config" : {
       "__connectionType" : "source_and_target",
@@ -96,7 +84,7 @@
       "ssl" : false
     },
     "connection_type" : "source_and_target",
-    "createAt" : 1781065641546,
+    "createAt" : 1779175375937,
     "createUser" : "admin@admin.com",
     "database_type" : "MongoDB",
     "database_uri" : "mongodb://null/null",
@@ -132,7 +120,7 @@
     "kafkaProducerRequestTimeout" : 0,
     "kafkaProducerUseTransactional" : false,
     "kafkaRetries" : 0,
-    "lastUpdAt" : 1781081260613,
+    "lastUpdAt" : 1780650047409,
     "loadAllTables" : true,
     "loadCount" : 19,
     "loadFieldErrMsg" : "",
@@ -152,7 +140,7 @@
         "sort" : 0,
         "status" : "passed"
       }, {
-        "fail_message" : "[192.168.1.184:37017]",
+        "fail_message" : "[113.98.206.142:37017]",
         "required" : true,
         "show_msg" : "Check host port is valid",
         "sort" : 0,
