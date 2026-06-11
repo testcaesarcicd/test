@@ -6,12 +6,12 @@
       "branch" : "main",
       "repoUrl" : "https://github.com/testcaesarcicd/test.git"
     },
-    "id" : "6a2a5e213df2b4ac8e64d125",
+    "id" : "6a2a86f23df2b4ac8edb8fc1",
     "name" : "test",
-    "resetTaskList" : [ ],
+    "resetTaskList" : [ "6a2a856c3df2b4ac8ed73584" ],
     "resourceItemList" : [ {
-      "id" : "6a0d8a6492b63f47f297383e",
-      "name" : "HKPMI_TO_FDM - Demo",
+      "id" : "6a2a856c3df2b4ac8ed73584",
+      "name" : "fdm_rebuild",
       "type" : "MIGRATE_TASK"
     } ],
     "user_id" : "6a2632504f0c789f857d1595"
