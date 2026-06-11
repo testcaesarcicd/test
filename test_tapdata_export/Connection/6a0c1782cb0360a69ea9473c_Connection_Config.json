@@ -252,11 +252,11 @@
         "sort" : 0,
         "status" : "passed"
       }, {
-        "error_code" : "410003",
-        "required" : false,
+        "fail_message" : "Cdc can work normally",
+        "required" : true,
         "show_msg" : "Read log",
         "sort" : 0,
-        "status" : "failed"
+        "status" : "passed"
       }, {
         "fail_message" : "113.98.206.142:25432",
         "required" : true,
