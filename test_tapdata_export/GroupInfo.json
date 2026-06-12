@@ -6,25 +6,13 @@
       "branch" : "main",
       "repoUrl" : "https://github.com/testcaesarcicd/test.git"
     },
-    "id" : "6a2baf0793da0d298bced7d8",
+    "id" : "6a2bc65afe8333edb60cd8d9",
     "name" : "test",
-    "resetTaskList" : [ ],
+    "resetTaskList" : [ "6a2bae7cfe8333edb6c743ec" ],
     "resourceItemList" : [ {
-      "id" : "6a2baa4193da0d298bced7bf",
-      "name" : "rollback_test1",
-      "type" : "MODULE"
-    }, {
-      "id" : "6a2baa5693da0d298bced7c1",
-      "name" : "rollback_test2",
-      "type" : "MODULE"
-    }, {
-      "id" : "6a2689324f0c789f857a9536",
-      "name" : "test_cicd",
-      "type" : "MODULE"
-    }, {
-      "id" : "6a2b6c9693da0d298bced66a",
-      "name" : "api_cicd",
-      "type" : "MODULE"
+      "id" : "6a2bae7cfe8333edb6c743ec",
+      "name" : "CMS-FDM DEMO",
+      "type" : "MIGRATE_TASK"
     } ],
     "user_id" : "6a2632504f0c789f857d1595"
   }

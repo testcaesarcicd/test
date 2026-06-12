@@ -96,7 +96,7 @@
       "ssl" : false
     },
     "connection_type" : "source_and_target",
-    "createAt" : 1781065641546,
+    "createAt" : 1779175375937,
     "createUser" : "admin@admin.com",
     "database_type" : "MongoDB",
     "database_uri" : "mongodb://null/null",
@@ -132,9 +132,9 @@
     "kafkaProducerRequestTimeout" : 0,
     "kafkaProducerUseTransactional" : false,
     "kafkaRetries" : 0,
-    "lastUpdAt" : 1781161901502,
+    "lastUpdAt" : 1781237214674,
     "loadAllTables" : true,
-    "loadCount" : 23,
+    "loadCount" : 19,
     "loadFieldErrMsg" : "",
     "loadFieldsStatus" : "finished",
     "name" : "Mongodb",
@@ -152,7 +152,7 @@
         "sort" : 0,
         "status" : "passed"
       }, {
-        "fail_message" : "[192.168.1.184:37017]",
+        "fail_message" : "[113.98.206.142:37017]",
         "required" : true,
         "show_msg" : "Check host port is valid",
         "sort" : 0,
@@ -188,11 +188,11 @@
     },
     "schema" : { },
     "schemaUpdateHour" : "default",
-    "schemaVersion" : "08723da6-0d91-48ce-8e7a-9210c5f61501",
+    "schemaVersion" : "a4d5b096-dfd6-4e2c-931f-25e54a00da23",
     "shareCDCExternalStorageId" : "",
     "shareCdcEnable" : false,
     "submit" : true,
-    "tableCount" : 23,
+    "tableCount" : 19,
     "testCount" : 0,
     "timeDifference" : 0,
     "user_id" : "62bc5008d4958d013d97c7a6"
