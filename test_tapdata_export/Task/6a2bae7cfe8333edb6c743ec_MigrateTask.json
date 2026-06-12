@@ -168,6 +168,7 @@
         "ignoreMetrics" : false,
         "increaseReadSize" : 1,
         "incrementExactlyOnceEnableTimeWindowDay" : 3,
+        "initialConcurrent" : false,
         "isTransformed" : false,
         "migrateTableSelectType" : "custom",
         "name" : "Mongodb",
@@ -939,7 +940,7 @@
     },
     "sourceType" : "VIRTUAL",
     "taskId" : "6a2bae7cfe8333edb6c743ec",
-    "transformUuid" : "1781257167959",
+    "transformUuid" : "1781257817945",
     "user_id" : "62bc5008d4958d013d97c7a6",
     "username" : "admin@admin.com"
   }
@@ -1679,7 +1680,7 @@
       "storageSize" : 5689344
     },
     "taskId" : "6a2bae7cfe8333edb6c743ec",
-    "transformUuid" : "1781257167959",
+    "transformUuid" : "1781257817945",
     "user_id" : "62bc5008d4958d013d97c7a6",
     "username" : "admin@admin.com"
   }
@@ -2302,7 +2303,7 @@
     },
     "sourceType" : "VIRTUAL",
     "taskId" : "6a2bae7cfe8333edb6c743ec",
-    "transformUuid" : "1781257167959",
+    "transformUuid" : "1781257817945",
     "user_id" : "62bc5008d4958d013d97c7a6",
     "username" : "admin@admin.com"
   }
