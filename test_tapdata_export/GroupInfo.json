@@ -6,7 +6,7 @@
       "branch" : "main",
       "repoUrl" : "https://github.com/testcaesarcicd/test.git"
     },
-    "id" : "6a2bd66cfe8333edb63bf10f",
+    "id" : "6a2bd7a2fe8333edb63f3505",
     "name" : "test",
     "resetTaskList" : [ "6a2bae7cfe8333edb6c743ec" ],
     "resourceItemList" : [ {
