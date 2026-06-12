@@ -104,6 +104,7 @@
           "unit" : "SECOND"
         } ],
         "attrs" : {
+          "capabilities" : [ ],
           "position" : [ 1299, 457.5 ]
         },
         "catalog" : "processor",
@@ -140,6 +141,7 @@
         "attrs" : {
           "accessNodeProcessId" : "",
           "accessNodeType" : "AUTOMATIC_PLATFORM_ALLOCATION",
+          "capabilities" : [ ],
           "connectionName" : "Mongodb",
           "connectionType" : "source_and_target",
           "db_version" : "4.4.23",
@@ -161,7 +163,7 @@
         },
         "elementType" : "Node",
         "enableConcurrentRead" : false,
-        "existDataProcessMode" : "keepData",
+        "existDataProcessMode" : "dropTable",
         "id" : "9041c39a-56f9-4b65-a30c-13ae15e724fd",
         "ignoreMetrics" : false,
         "increaseReadSize" : 1,
@@ -212,6 +214,7 @@
         "attrs" : {
           "accessNodeProcessId" : "",
           "accessNodeType" : "AUTOMATIC_PLATFORM_ALLOCATION",
+          "capabilities" : [ ],
           "connectionName" : "CMS",
           "connectionType" : "source_and_target",
           "hasCreated" : false,
@@ -936,7 +939,7 @@
     },
     "sourceType" : "VIRTUAL",
     "taskId" : "6a2bae7cfe8333edb6c743ec",
-    "transformUuid" : "1781247686839",
+    "transformUuid" : "1781257167959",
     "user_id" : "62bc5008d4958d013d97c7a6",
     "username" : "admin@admin.com"
   }
@@ -1676,7 +1679,7 @@
       "storageSize" : 5689344
     },
     "taskId" : "6a2bae7cfe8333edb6c743ec",
-    "transformUuid" : "1781247686839",
+    "transformUuid" : "1781257167959",
     "user_id" : "62bc5008d4958d013d97c7a6",
     "username" : "admin@admin.com"
   }
@@ -2299,7 +2302,7 @@
     },
     "sourceType" : "VIRTUAL",
     "taskId" : "6a2bae7cfe8333edb6c743ec",
-    "transformUuid" : "1781247686839",
+    "transformUuid" : "1781257167959",
     "user_id" : "62bc5008d4958d013d97c7a6",
     "username" : "admin@admin.com"
   }
